@@ -17,12 +17,14 @@ __ Problem Statement __
 - We are tasked with predicting whether a pair of questions are duplicates or not. 
 <h2 style="text-align:center>Sources/Useful Links</h2>
 - Source : https://www.kaggle.com/c/quora-question-pairs
-<br><br>
+
 __Useful Links:__
 - Discussions : https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
 - Kaggle Winning Solution and other approaches: https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZdtsApc1QSTQc7X0H3QZ5a?dl=0
 - Blog 1 : https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
 - Blog 2 : https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
+
+<br><br>
 <h2> Real world/Business Objectives and Constraints </h2>
 1. The cost of a mis-classification can be very high.
 2. You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
