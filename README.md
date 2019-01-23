@@ -198,7 +198,7 @@ __tfidf w2v__
   <tr>
     <tr>
      <td> 2. </td>
-    <td>Logistic Regression</td>
+    <td>Logistic Regression(SGD Classifier)</td>
     <td>0.520</td>
   <tr>
   <tr>
